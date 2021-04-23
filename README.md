@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 
-<!--
-**Ricardo4466/Ricardo4466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroHen14)](https://github.com/Ricardo4466)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ricardo4466/)](https://www.linkedin.com/in/Ricardo4466-3709b51ba/)
 
-Here are some ideas to get you started:
+##
+![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/%E2%80%8E-ReactJS-61DAFB?logo=React&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## - 😄 Algumas curiosidades sobre mim: 
+
+- 💻 Estou trabalhando atualmente na ITpower softwares
+- 📚 Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira
+- 🚀 Estou desenvolvendo um sistema de gerenciamento comercial para o meu TCC
+
+## GITHUB
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedroHen14&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHen14&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
