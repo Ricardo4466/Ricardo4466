@@ -1,7 +1,7 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroHen14)](https://github.com/Ricardo4466)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ricardo teixeira lima/)](https://www.linkedin.com/in/Ricardo teixeira lima/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ricardoteixeiralima/)](https://www.linkedin.com/in/Ricardoteixeiralima/)
 
 ##
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
