@@ -15,9 +15,9 @@
 
 ## - 😄 Algumas curiosidades sobre mim: 
 
-- 💻 Estou trabalhando atualmente na ITpower softwares
+
 - 📚 Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira
-- 🚀 Estou desenvolvendo um sistema de gerenciamento comercial para o meu TCC
+- 🚀 Estou desenvolvendo um sistema de gerenciamento de academias para o meu TCC
 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ricardo4466&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
