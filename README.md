@@ -1,6 +1,6 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroHen14)](https://github.com/Ricardo4466)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ricardo4466)](https://github.com/Ricardo4466)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ricardo-teixeira-lima/)](https://www.linkedin.com/in/Ricardo-teixeira-lima/)
 
 ##
@@ -15,5 +15,5 @@
 
 
 ## GITHUB
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ricardo4466&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ricardo4466&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)(https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroHen14&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
