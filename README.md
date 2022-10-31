@@ -1,5 +1,5 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ricardo4466color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ricardo4466&color=yellow" alt="Profile views" /> </p>
 
 
 ## GITHUB
