@@ -4,10 +4,10 @@
 
 ## GITHUB
 
-<p>
+
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ricardo4466&show_icons=true&theme=vision-friendly-dark" alt="Ricardo4466 stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&theme=vision-friendly-dark" alt="Ricardo4466 most languages"/>
-</p>
+
 
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
