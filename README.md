@@ -17,4 +17,4 @@
 ![](https://img.shields.io/badge/%E2%80%8E-ReactJS-61DAFB?logo=React&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-typescript-F05032?logo=typescript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-typescript-F05032?logo=typescript&logoColor=blue&style=plastic)
