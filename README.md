@@ -22,7 +22,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt-br.facebook.com%2Fmkom.br%2F&psig=AOvVaw2ym1aATVvuIHITTYDeayVi&ust=1670682314022000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCto-He7PsCFQAAAAAdAAAAABAP" />](https://www.mkom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt-br.facebook.com%2Fmkom.br%2F&psig=AOvVaw2ym1aATVvuIHITTYDeayVi&ust=1670682314022000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCto-He7PsCFQAAAAAdAAAAABAP](https://storage.googleapis.com/ecdt-logo-saida/17a16075a21a3c8d7b11c0048ee909bb7c88c10c6ee40b18e7f6b39fdfc1aad2/MKOM.webp)" />](https://www.mkom.com.br/)
 
 **Front-End Developer ** \
 [**MKOM**](https://mkom.com.br/) • Full-time \
