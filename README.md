@@ -22,7 +22,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.mkom.com.br/static/images/share.jpg"/>](https://www.mkom.com.br/)
 
 **Front-End Developer ** \
 [**MKOM**](https://mkom.com.br/) • Full-time \
