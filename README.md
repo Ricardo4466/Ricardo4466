@@ -1,9 +1,6 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ricardo4466&color=yellow" alt="Profile views" /> </p>
 
-
-## GITHUB
-
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ricardo4466&show_icons=true&theme=vision-friendly-dark" alt="Ricardo4466 stats"/>
 <img width="400em" height="208em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&theme=vision-friendly-dark" alt="Ricardo4466 most languages"/>
@@ -26,7 +23,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mkom.com.br/wp-content/themes/mkom/assets/img/logo-mkom.svg" />](https://www.mkom.com.br/)
 
-**Front-End Developer ** \
+Front-End Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
 <br/>
