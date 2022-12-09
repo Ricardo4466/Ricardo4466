@@ -29,4 +29,4 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-lima/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-lima-1120901ab/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
