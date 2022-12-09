@@ -3,7 +3,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ricardo4466&show_icons=true&theme=vision-friendly-dark" alt="Ricardo4466 stats"/>
-<img width="400em" height="208em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&theme=vision-friendly-dark" alt="Ricardo4466 most languages"/>
+<img width="400em" height="308em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&theme=vision-friendly-dark" alt="Ricardo4466 most languages"/>
 </p>
 
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
@@ -23,7 +23,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mkom.com.br/wp-content/themes/mkom/assets/img/logo-mkom.svg" />](https://www.mkom.com.br/)
 
-Front-End Developer \
+Front-End Jr Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
 <br/>
