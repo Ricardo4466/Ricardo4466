@@ -1,9 +1,12 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ricardo4466&color=yellow" alt="Profile views" /> </p>
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ricardo4466&show_icons=true&theme=vision-friendly-dark" alt="Ricardo4466 stats"/>
-<img width="400em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&theme=vision-friendly-dark" alt="Ricardo4466 most languages"/>
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ricardo4466&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
