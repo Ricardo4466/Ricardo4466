@@ -24,7 +24,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://storage.googleapis.com/ecdt-logo-saida/17a16075a21a3c8d7b11c0048ee909bb7c88c10c6ee40b18e7f6b39fdfc1aad2/MKOM.webp" />](https://www.mkom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.econodata.com.br%2Fconsulta-empresa%2F18358621000107-ARYEROM-SERVICOS-DE-COMUNICACAO-EIRELI&psig=AOvVaw06vafo5Ho3J2D75d-nckkt&ust=1670705592304000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJC4-r217fsCFQAAAAAdAAAAABAI" />](https://www.mkom.com.br/)
 
 Front-End Jr Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
