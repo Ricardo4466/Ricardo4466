@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ricardo4466&color=yellow" alt="Profile views" /> </p>
 
 <p align="left">
-<img width="530em" height="308em" src="https://github-readme-stats.vercel.app/api?username=Ricardo4466&show_icons=true&theme=vision-friendly-dark" alt="Ricardo4466 stats"/>
-<img width="400em" height="308em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&theme=vision-friendly-dark" alt="Ricardo4466 most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Ricardo4466&show_icons=true&theme=vision-friendly-dark" alt="Ricardo4466 stats"/>
+<img width="400em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&theme=vision-friendly-dark" alt="Ricardo4466 most languages"/>
 </p>
 
 ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
