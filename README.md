@@ -24,7 +24,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://storage.googleapis.com/ecdt-logo-saida/17a16075a21a3c8d7b11c0048ee909bb7c88c10c6ee40b18e7f6b39fdfc1aad2" />](https://www.mkom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mkchannels.mkmservice.com/assets/mklib/images/logo-2021/MKOM_Simbolo_Pos_RGB_Verm.png" />](https://www.mkom.com.br/)
 
 Front-End Jr Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
