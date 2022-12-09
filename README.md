@@ -25,7 +25,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mkom.com.br/wp-content/themes/mkom/assets/img/logo-mkom.svg" />](https://www.mkom.com.br/)
 
 **Front-End Developer ** \
-[**MKOM**](https://mkom.com.br/) • Full-time \
+[**MKOM**](https://mkom.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
 <br/>
 
