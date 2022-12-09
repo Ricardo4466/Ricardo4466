@@ -19,3 +19,14 @@
 ![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Front-End Developer ** \
+[**MKOM**](https://mkom.com.br/) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/Ricardo Teixeira Lima/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
