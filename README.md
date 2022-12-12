@@ -1,5 +1,7 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
 <p align="center">
 <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ricardo4466&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
