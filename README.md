@@ -1,6 +1,6 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 
-![](https://komarev.com/ghpvc/?username==Ricardo4466&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Ricardo4466&style=for-the-badge)
 
 <p align="center">
 <a href="https://github.com/AVS1508">
