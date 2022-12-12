@@ -25,14 +25,11 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh29-1.fna.fbcdn.net/v/t39.30808-6/247836101_4564937536927751_4085174911555478155_n.png?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=NK81MT6YapIAX9jK-OC&_nc_ht=scontent.fcgh29-1.fna&oh=00_AfAWhtKhj_gvjPHaoucv9mre9zOVPYb-zQI2r_aDqQy4dw&oe=639CB9C2" />](https://www.eurofarma.com.br/)\
-<br/>
-
 Auxiliar Administrativo (jovem Aprendiz)\
 [**EUROFARMA**](https://eurofarma.com.br/) • Contract \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mkchannels.mkmservice.com/assets/mklib/images/logo-2021/MKOM_Simbolo_Pos_RGB_Verm.png" />](https://www.mkom.com.br/) \
-
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mkchannels.mkmservice.com/assets/mklib/images/logo-2021/MKOM_Simbolo_Pos_RGB_Verm.png" />](https://www.mkom.com.br/)
 Front-End Jr Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
