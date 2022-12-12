@@ -1,5 +1,4 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
-<p align="left"> <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Profile views" /> </p>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
