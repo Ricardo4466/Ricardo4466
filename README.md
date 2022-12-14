@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&langs_count=8&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ricardo4466&layout=compact&langs_count=8&theme=midnight-purple"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ricardo4466&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> 
 
 </a>
