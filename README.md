@@ -26,7 +26,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh29-1.fna.fbcdn.net/v/t39.30808-6/247836101_4564937536927751_4085174911555478155_n.png?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=NK81MT6YapIAX9jK-OC&_nc_ht=scontent.fcgh29-1.fna&oh=00_AfAWhtKhj_gvjPHaoucv9mre9zOVPYb-zQI2r_aDqQy4dw&oe=639CB9C2" />](https://www.eurofarma.com.br/)\
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh29-1.fna.fbcdn.net/v/t39.30808-6/277793370_5109639465790886_7322052086360095554_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gqP7HwIcPnkAX8uEgdF&_nc_ht=scontent.fcgh29-1.fna&oh=00_AfArHt1-tIckytwjW4wujxwWAYQwetohyy27nk8opkZ6KQ&oe=63B2E20E" />](https://www.eurofarma.com.br/)\
 Auxiliar Administrativo (jovem Aprendiz) \
 [**EUROFARMA**](https://eurofarma.com.br/) • Contract\
 <br/>
