@@ -31,7 +31,7 @@ Auxiliar Administrativo (jovem Aprendiz) \
 [**EUROFARMA**](https://eurofarma.com.br/) • Contract\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://mkchannels.mkmservice.com/assets/mklib/images/logo-2021/MKOM_Simbolo_Pos_RGB_Verm.png" />](https://www.mkom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEF2lcW0hGYmA/company-logo_200_200/0/1661295196655?e=1680739200&v=beta&t=XJXRjKGU9OeihnKdFUed5Wf6vT0z-gc2LzrFalQ-6As" />](https://www.mkom.com.br/)
 Front-End Jr Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
