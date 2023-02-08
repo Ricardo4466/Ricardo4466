@@ -26,15 +26,18 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh29-1.fna.fbcdn.net/v/t39.30808-6/277793370_5109639465790886_7322052086360095554_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gqP7HwIcPnkAX8uEgdF&_nc_ht=scontent.fcgh29-1.fna&oh=00_AfArHt1-tIckytwjW4wujxwWAYQwetohyy27nk8opkZ6KQ&oe=63B2E20E" />](https://www.eurofarma.com.br/)\
-Auxiliar Administrativo (jovem Aprendiz) \
-[**EUROFARMA**](https://eurofarma.com.br/) • Contract\
-<br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEF2lcW0hGYmA/company-logo_200_200/0/1661295196655?e=1680739200&v=beta&t=XJXRjKGU9OeihnKdFUed5Wf6vT0z-gc2LzrFalQ-6As" />](https://www.mkom.com.br/)
 Front-End Jr Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh29-1.fna.fbcdn.net/v/t39.30808-6/277793370_5109639465790886_7322052086360095554_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gqP7HwIcPnkAX8uEgdF&_nc_ht=scontent.fcgh29-1.fna&oh=00_AfArHt1-tIckytwjW4wujxwWAYQwetohyy27nk8opkZ6KQ&oe=63B2E20E" />](https://www.eurofarma.com.br/)\
+Auxiliar Administrativo (jovem Aprendiz) \
+[**EUROFARMA**](https://eurofarma.com.br/) • Contract\
+<br/>
+
+
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-lima-1120901ab/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
