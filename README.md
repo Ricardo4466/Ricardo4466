@@ -27,7 +27,7 @@
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEF2lcW0hGYmA/company-logo_200_200/0/1661295196655?e=1680739200&v=beta&t=XJXRjKGU9OeihnKdFUed5Wf6vT0z-gc2LzrFalQ-6As" />](https://www.mkom.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEF2lcW0hGYmA/company-logo_200_200/0/1661295196655?e=2147483647&v=beta&t=z1K6pD2WYdU09xATfs0W56MWpwej0IHSeTouJGdCW4o" />](https://www.mkom.com.br/)
 Front-End Jr Developer \
 [**MKOM**](https://mkom.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
