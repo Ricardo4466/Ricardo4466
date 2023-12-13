@@ -1,5 +1,9 @@
 ### Olá pessoal, meu nome é Ricardo Teixeira lima👋
 
+Estou nessa jornada como Desenvolvedor já a 3 anos! sou um entusiasta de tecnologia! gosto de tabalhar com coisas novas!
+Meu hooby princípal/terapia kkkk é tocar teclado! comecei bem novo aos meus 11 anos de idade e toco até hoje!
+
+
 ![](https://komarev.com/ghpvc/?username=Ricardo4466&style=for-the-badge)
 
 <p align="center">
