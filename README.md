@@ -54,3 +54,6 @@ Auxiliar Administrativo (jovem Aprendiz) \
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-lima-1120901ab/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 ![](https://komarev.com/ghpvc/?username=Ricardo4466&style=for-the-badge)
 
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71BF37&height=120&section=footer"/>
