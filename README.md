@@ -1,7 +1,15 @@
-### Olá pessoal, meu nome é Ricardo Teixeira lima👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=057DB7&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=057DB7&size=35&center=true&vCenter=true&width=1000&lines=Olá+pessoal,+Meu+nome+é+Ricardo+Teixeira+Lima;Sejam+Bem-vindos!+:%29+👋)](https://git.io/typing-svg)
+
+<br>
 
 Estou nessa jornada como Desenvolvedor já a 3 anos! sou um entusiasta de tecnologia! gosto de tabalhar com coisas novas!
 Meu hooby princípal/terapia kkkk é tocar teclado! comecei bem novo aos meus 11 anos de idade e toco até hoje!
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ricardo4466&bg_color=00000&color=FFFFFF&line=51B705&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![](https://komarev.com/ghpvc/?username=Ricardo4466&style=for-the-badge)
