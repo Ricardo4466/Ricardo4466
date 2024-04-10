@@ -12,7 +12,6 @@ Meu hooby princípal/terapia kkkk é tocar teclado! comecei bem novo aos meus 11
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ricardo4466&bg_color=00000&color=FFFFFF&line=51B705&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![](https://komarev.com/ghpvc/?username=Ricardo4466&style=for-the-badge)
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -53,3 +52,5 @@ Auxiliar Administrativo (jovem Aprendiz) \
 
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-lima-1120901ab/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+![](https://komarev.com/ghpvc/?username=Ricardo4466&style=for-the-badge)
+
