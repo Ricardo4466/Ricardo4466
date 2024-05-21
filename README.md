@@ -43,10 +43,7 @@ Front-End Jr Developer \
 Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Mui`, `Cypress`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fcgh29-1.fna.fbcdn.net/v/t39.30808-6/277793370_5109639465790886_7322052086360095554_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=gqP7HwIcPnkAX8uEgdF&_nc_ht=scontent.fcgh29-1.fna&oh=00_AfArHt1-tIckytwjW4wujxwWAYQwetohyy27nk8opkZ6KQ&oe=63B2E20E" />](https://www.eurofarma.com.br/)\
-Auxiliar Administrativo (jovem Aprendiz) \
-[**EUROFARMA**](https://eurofarma.com.br/) • Contract\
-<br/>
+
 
 ### Projetos Pessoais
 Logo abaixo você encontrará minha experiência de trabalho em algunns  projjetos pessoais:
