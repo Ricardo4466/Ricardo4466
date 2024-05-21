@@ -53,7 +53,7 @@ Logo abaixo você encontrará minha experiência de trabalho em algunns  projjet
 
 [<img align="left" height="94px" width="94px" jsname="OX8uie" src="https://lh3.googleusercontent.com/a/ACg8ocIwX1KbmNoDjD4WeGuTvdumuHTi6O23BYXIOv0HyKKJQRMTpVM=s288-c-no" alt="Sua foto do perfil" class="EEKrSc xUNOSc" jsaction="click:pLamw" data-iml="1177.3999999910593" jslog="95413; track:click,impression">](https://www.mkom.com.br/)
 
-[**Juh Vital Assessoria**](https://juhvitalassessoria.com.br/)<br/>
+[**JUH VITAL ASSESSORIA**](https://juhvitalassessoria.com.br/)<br/>
 Linguagens & Tecnologias: `Nextjs`, `Tailwindcss`, `TypeScript`, `EmailJS`\
 <br/>
 
