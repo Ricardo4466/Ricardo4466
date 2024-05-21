@@ -48,8 +48,16 @@ Auxiliar Administrativo (jovem Aprendiz) \
 [**EUROFARMA**](https://eurofarma.com.br/) • Contract\
 <br/>
 
+### Projetos Pessoais
+Logo abaixo você encontrará minha experiência de trabalho em algunns  projjetos pessoais:
 
+[<img align="left" height="94px" width="94px" jsname="OX8uie" src="https://lh3.googleusercontent.com/a/ACg8ocIwX1KbmNoDjD4WeGuTvdumuHTi6O23BYXIOv0HyKKJQRMTpVM=s288-c-no" alt="Sua foto do perfil" class="EEKrSc xUNOSc" jsaction="click:pLamw" data-iml="1177.3999999910593" jslog="95413; track:click,impression">](https://www.mkom.com.br/)
 
+[**Juh Vital Assessoria**](https://juhvitalassessoria.com.br/)<br/>
+Linguagens & Tecnologias: `Nextjs`, `Tailwindcss`, `TypeScript`, `EmailJS`\
+<br/>
+
+<br/>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-lima-1120901ab/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 ![](https://komarev.com/ghpvc/?username=Ricardo4466&style=for-the-badge)
 
